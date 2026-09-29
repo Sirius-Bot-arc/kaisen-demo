@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /demo-console
+Disallow: /api/
+Disallow: /staging-demo/
+Disallow: /internal-demo/
